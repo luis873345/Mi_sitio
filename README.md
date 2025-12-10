@@ -1,1 +1,34 @@
-# Mi_sitio
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Machine Learning en Redes de Comunicaciones</title>
+
+    <!-- Enlace correcto al CSS -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <h1>Machine Learning aplicado a Redes de Comunicaciones</h1>
+
+    <p>
+        El Machine Learning permite optimizar el tráfico, detectar fallos
+        y mejorar la calidad del servicio en redes de comunicaciones.
+    </p>
+
+    <h2>Aplicaciones principales</h2>
+    <ul>
+        <li>Gestión inteligente del tráfico</li>
+        <li>Detección de anomalías</li>
+        <li>Optimización de recursos</li>
+    </ul>
+
+    <h2>Arquitectura del sistema</h2>
+    <img src="img/diagrama.jpeg" alt="Diagrama de Machine Learning en redes">
+
+    <h2>Ejemplo de red inteligente</h2>
+    <img src="img/ml_red.jpg" alt="Ejemplo de Machine Learning en redes">
+
+</body>
+</html>
